@@ -4,4 +4,4 @@ Staff designed in 10 minutes with Fusion 360
 Check Youtube channel NorMaker for more details
 https://www.youtube.com/channel/UCqJUcxEPpV0XClREecStVQw
 
-Thsi repository contains the f3d files (native Fusion 360) of each day project.
+This repository contains the f3d files (native Fusion 360) of each day project.
